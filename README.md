@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="right" width="50%" src="https://camo.githubusercontent.com/d3cd2fdb361672150ba048d0d05f4a58dd1683981f963e34e1e4f984a68d39e2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a696c6c617a7175657a2673686f775f69636f6e733d74727565267469746c655f636f6c6f723d45364446423826746578745f636f6c6f723d6364646266392669636f6e5f636f6c6f723d6361663662622662675f636f6c6f723d323032303241" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Jillazquez&amp;show_icons=true&amp;title_color=E6DFB8&amp;text_color=cddbf9&amp;icon_color=caf6bb&amp;bg_color=20202A" style="max-width: 100%;">
+<img align="right" width="50%" src="https://camo.githubusercontent.com/d3cd2fdb361672150ba048d0d05f4a58dd1683981f963e34e1e4f984a68d39e2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a696c6c617a7175657a2673686f775f69636f6e733d74727565267469746c655f636f6c6f723d45364446423826746578745f636f6c6f723d6364646266392669636f6e5f636f6c6f723d6361663662622662675f636f6c6f723d323032303241" data-canonical-src="https://github-readme-stats.vercel.app/api?username=itsmercurio&amp;show_icons=true&amp;title_color=E6DFB8&amp;text_color=cddbf9&amp;icon_color=caf6bb&amp;bg_color=20202A" style="max-width: 100%;">
 
 
  <div align="center" dir="auto">
