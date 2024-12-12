@@ -1,8 +1,12 @@
 👋 Hi, I’m @itsmercurio
 👀 I’m interested in web development, JavaScript, and exploring new technologies.
+
 🌱 I’m currently learning advanced JavaScript, frameworks like React, and backend development with Node.js.
+
 💞️ I’m looking to collaborate on open-source projects, innovative web applications, or anything that challenges my coding skills.
+
 📫 How to reach me: lolalexis.am@gmail.com
+
 ⚡ Fun fact: I love discovering quirky programming tools and hacks that make coding even more fun!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmercurio)](https://github.com/anuraghazra/github-readme-stats)
